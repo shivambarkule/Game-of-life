@@ -1,0 +1,16 @@
+name = "GameOfLifeAPI"
+uuid = "f1a2b3c4-d5e6-7890-abcd-ef1234567890"
+authors = ["Game Developer"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
+
+[compat]
+julia = "1.6"
+HTTP = "1.10"
+JSON = "0.21"
